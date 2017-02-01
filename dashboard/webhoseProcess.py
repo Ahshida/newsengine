@@ -1,4 +1,4 @@
-__author__ = 'Vignesh Prakasam'
+__author__ = 'Ahshida'
 import urllib2,json
 import os
 from django.conf import settings
